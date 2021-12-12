@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kei</h1>
+<h1 align="center">Hi 👋, I'm kei</h1>
 <h3 align="center">I am a Student at Tokyo University of Technology.</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
